@@ -1,0 +1,40 @@
+.top_container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  width: 100%;
+  margin: 5px;
+}
+.logo_container {
+  display: flex;
+}
+.logo_size {
+  height: 50px;
+  width: 80px;
+}
+.company_name {
+  font-family: 'Roboto';
+  font-size: 29px;
+  color: skyblue;
+  font-weight: bold;
+}
+.link_container {
+  display: flex;
+  list-style-type: none;
+  margin-right: 80px;
+}
+.link_item {
+  font-family: 'Roboto';
+  font-size: 19px;
+  color: orange;
+  font-weight: bold;
+  margin: 3px;
+}
+.logout_btn {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 15px;
+}

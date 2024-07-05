@@ -1,0 +1,32 @@
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.content {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 2px;
+}
+.filter_container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  list-style-type: none;
+}
+.input_check_box {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 10px;
+}
+.filter_option_container {
+  display: flex;
+}
+.hr_line {
+  background-color: orange;
+}

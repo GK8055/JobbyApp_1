@@ -1,0 +1,125 @@
+.job_route_details_container {
+  display: flex;
+  padding: 20px;
+  width: 100%;
+}
+.profile_filter_container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  width: 40%;
+  margin: 5px;
+}
+.profile_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: skyblue;
+}
+.profile_size {
+  height: 40px;
+  width: 50px;
+}
+.profile_name {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+.role {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.hr_line {
+  color: white;
+  border: 5px solid;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.content {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 4px;
+}
+.input_check_box {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+filter_option_container {
+  display: flex;
+}
+.job_details_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px;
+  width: 60%;
+  margin: 5px;
+}
+.search_container {
+  display: flex;
+  padding: 20px;
+}
+.search_ele {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.search_icon_size {
+  height: 30px;
+  width: 30px;
+  color: white;
+}
+.job_list_container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: white;
+  font-weight: bold;
+}
+.desc {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+.image_size {
+  height: 300px;
+  width: 300px;
+}
+.Retry_btn {
+  background-color: blue;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+}
